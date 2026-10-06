@@ -17,4 +17,4 @@ It then calculates the total bill including the tip and divides it equally among
 If the bill is $150, the tip is 12%, and 5 people are splitting the bill:
 
 ```text
-Each person should pay: $33.60
+Each person should pay: $33.6
